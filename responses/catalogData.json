@@ -1,12 +1,27 @@
 [
   {
-    "id_product": 123,
-    "product_name": "Ноутбук",
-    "price": 45600
+      "id": "1",
+      "title:": "Ноутбук",
+      "price": "18000",
+      "img": "img/1.jpg"
   },
   {
-    "id_product": 456,
-    "product_name": "Мышка",
-    "price": 1000
-  }
-]
+      "id": "2",
+      "title:": "Мышка",
+      "price": "230",
+      "img": "img/2.jpg"
+  },
+  {
+      "id": "3",
+      "title:": "Kлавиатура",
+      "price": "500",
+      "img": "img/3.jpg"
+  },
+  {
+      "id": "4",
+      "title:": "Геймпад",
+      "price": "550",
+      "img": "img/4.jpg"
+  },
+ 
+]  
